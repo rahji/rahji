@@ -1,6 +1,9 @@
-- I'm an artist 👨🏽‍🎨
-- I make electronic stuff 🔌 & synth stuff 🎛️
-- I teach digital fabrication ⚙️  
+I'm an artist 👨🏽‍🎨
+
+I make electronic stuff 🔌 & synth stuff 🎛️
+
+I teach digital fabrication ⚙️  
 physcomp 🖇️  
-creative coding 🕹️ 
-& sculpture 🗜
+creative coding 🕹️  
+sculpture 🗜  
+etc
