@@ -4,4 +4,4 @@ I teach digital fabrication ⚙️
 physcomp 🖇️  
 creative coding 🕹️  
 sculpture 🗜  
-etc
+etc<a rel="me" href="https://post.lurk.org/@robduarte">.</a>
